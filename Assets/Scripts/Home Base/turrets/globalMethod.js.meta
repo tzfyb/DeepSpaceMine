@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ec426c1c4a1722f42b1a5fcc7d35111a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - turretlevel1: {fileID: 2800000, guid: 877ff23761c1c864798675fafff0349f, type: 3}
+  - turretlevel2: {fileID: 2800000, guid: cc491bf3da62f0144baf0a61e3c67a2d, type: 3}
+  - turretlevel3: {fileID: 2800000, guid: 2d6d3ab971fb9e642992c61d15f02d27, type: 3}
+  - turretlevel4: {fileID: 2800000, guid: 72caa636c95b9cf4b9e93b1c631ed1d9, type: 3}
+  - missilelevel1: {fileID: 2800000, guid: dd5767fb109100c43893f85ec8e4d048, type: 3}
+  - missilelevel2: {fileID: 2800000, guid: e5b2ff2ee98ac4a228d409c0c0d1bd29, type: 3}
+  - missilelevel3: {fileID: 2800000, guid: 6e023ca4283b3a7469cd61d24c83048c, type: 3}
+  - missilelevel4: {fileID: 2800000, guid: eca482ab971cf1d4287a81e404d047b6, type: 3}
+  - bomblevel1: {fileID: 2800000, guid: 5968ea1741779489885041593b0e221a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
